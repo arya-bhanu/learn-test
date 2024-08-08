@@ -1,0 +1,7 @@
+{
+  "name": "learn-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
